@@ -14,7 +14,7 @@ Para o efeito, usamos  diversos algoritmos e métodos. Realizamos uma análise d
   - HCC.ipynb
   - app.py
 
-***Requesitos:***
+***Requisitos:***
 Para executar o programa, é aconselhável a utilização do ambiente Anaconda, de modo a que a visualização do projeto possa conter as bibliotecas de Python utilizadas no seu desenvolvimento. Estas bibliotecas são:
   - Pandas
   - Numpy
