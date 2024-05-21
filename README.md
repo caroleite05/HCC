@@ -27,3 +27,10 @@ Para executar o programa, é aconselhável a utilização do ambiente Anaconda, 
 https://github.com/Dr-Salcedo/hepatocellular_carcinoma_one_year_survival
 
   
+## Authors  
+
+* **Beatriz Pereira** - *Bioinformática - FCUP* - [Beapereirax](https://github.com/Beapereirax) 
+* **Carolina Leite** - *Bioinformática - FCUP* - [caroleite05](https://github.com/caroleite05)
+* **Inês Santos** - *Bioinformática - FCUP* - [up202305589](https://github.com/up202305589)
+
+Elementos de Inteligência Artificial e Ciência de Dados - FCUP - 2023/2024 
