@@ -23,7 +23,7 @@ Para executar o programa, é aconselhável a utilização do ambiente Anaconda, 
   - Matplotlib e searborn
   - Jupyter notebook
 
-Para aceder à aplicação de previsão, deve escrever o seguinte comando:
+Para aceder à aplicação de previsão, deve escrever no terminal o seguinte comando:
 <br>
    > **streamlit run app.py**
 
