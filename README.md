@@ -10,10 +10,10 @@ O HCC(carcinoma hepatocelular) é o tipo mais comum e grave de cancro no fígado
 Para o efeito, usamos  diversos algoritmos e métodos. Realizamos uma análise detalhada dos dados, incluindo pré-processamento, análise exploratória e definição do alvo (target). Para a classificação, aplicamos os algoritmos KNN e Decision Tree, e para lidar com desequilíbrios nas classes, aplicamos a técnica SMOTE. Além disso, fizemos testes com diferentes configurações de dados e dividimos os dados em conjuntos de treino e teste para validação. A importância das variáveis foi avaliada para entender quais as características  que mais influenciam na sobrevivência dos pacientes. Realizamos também uma comparação visual dos resultados obtidos com KNN e Decision Tree, utilizando gráficos para interpretar a performance dos modelos. Finalmente, ajustamos os parâmetros (tuning) para otimizar o desempenho dos algoritmos.
 
 ***Ficheiros utilizados:***
-  - hcc_dataset.csv: conjunto de dados iniciais
-  - hcc_dataset_filled.csv: conjunto de dados já preenchidos
-  - HCC.ipynb: código implementado com os modelos aplicados
-  - app.py: implementação de uma aplicação para prever se uma pessoa irá "morrer" ou "viver" após 1 ano do diagnóstico de acordo com os seus dados
+  - **hcc_dataset.csv:** conjunto de dados iniciais
+  - **hcc_dataset_filled.csv:** conjunto de dados já preenchidos
+  - **HCC.ipynb:** código implementado com os modelos aplicados
+  - **app.py:** implementação de uma aplicação para prever se uma pessoa irá "morrer" ou "viver" após 1 ano do diagnóstico de acordo com os seus dados
 
 ***Requisitos:***
 Para executar o programa, é aconselhável a utilização do ambiente Anaconda, de modo a que a visualização do projeto possa conter as bibliotecas de Python utilizadas no seu desenvolvimento. Estas bibliotecas são:
@@ -24,7 +24,8 @@ Para executar o programa, é aconselhável a utilização do ambiente Anaconda, 
   - Jupyter notebook
 
 Para aceder à aplicação de previsão, deve escrever o seguinte comando:
-   <i> streamlit run app.py </i>
+<br>
+   > **streamlit run app.py**
 
 ***Referências***
 https://github.com/Dr-Salcedo/hepatocellular_carcinoma_one_year_survival
