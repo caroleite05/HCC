@@ -28,7 +28,9 @@ Para aceder à aplicação de previsão, deve escrever no terminal o seguinte co
    > **streamlit run app.py**
 
 <br>
+
 ***Referências***
+<br>
 https://github.com/Dr-Salcedo/hepatocellular_carcinoma_one_year_survival
 
   
