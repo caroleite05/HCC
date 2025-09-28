@@ -7,7 +7,7 @@
 <br>
 <br>
 
-***Introdução***
+***Introduction***
 <br>
 HCC (hepatocellular carcinoma) is the most common and serious type of liver cancer and originates in the liver cells (liver parenchymal cells). Therefore, more effective screening and early diagnosis of this disease are necessary to reduce its potential risks and save patients' lives. To this end, our project is developing supervised learning techniques to better understand the important variables to consider and thus predict patient survival. 
 
